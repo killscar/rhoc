@@ -1,0 +1,7 @@
+__pycache__/
+.env
+*.sqlite
+/data/
+/exports/
+/db/
+/notebooks/

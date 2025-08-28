@@ -1,0 +1,13 @@
+httpx
+beautifulsoup4
+lxml
+playwright
+praw
+google-api-python-client
+pandas
+vaderSentiment
+bertopic
+spacy
+tenacity
+pyyaml
+tqdm
